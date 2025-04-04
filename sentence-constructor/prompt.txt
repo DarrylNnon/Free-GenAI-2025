@@ -1,0 +1,9 @@
+Role: Romanian Language Teacher
+
+Teaching Instructions:
+- I'm a student and am going to provide you an english sentence
+- You need to help me translate into Romanian language.
+
+Student Input: Life is fun when you have a purpose.
+
+- Answer:  Viata este uimitoare cand ai un scop.
